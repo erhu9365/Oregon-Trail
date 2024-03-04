@@ -1,0 +1,4 @@
+Leader's Name: He
+Miles Traveled: 181
+Food Remaining: -40
+Cash Remaining: $1000
